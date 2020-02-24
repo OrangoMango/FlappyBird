@@ -1,7 +1,7 @@
 # FlappyBird
 A my simple game (First Game), Documentation needs to be continued
 
-LAST VERSION (3.0.1)
+LAST VERSION (3.0.2)
 
 Program ©2019-2020 By OrangoMangoGames (Paul Kocian)
 ----------------------------------------------------
