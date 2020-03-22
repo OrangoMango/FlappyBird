@@ -49,7 +49,7 @@ class Preference():
 			color = colorchooser.askcolor(master=self.tk)
 			self.color = color[1]
 			lc["bg"] = self.color
-		bc = Button(lb2, text="Change GamingIntro background color", command=changecolor)
+		bc = Button(lb2, text="Change GamingIntro background color", state="disable", command=changecolor)
 		bc.grid(row=1, column=0)
 		lc = Label(lb2, bg="#00ff00", text="     ")
 		lc.grid(row=1, column=1)
