@@ -1,5 +1,5 @@
 # FlappyBird
-A my simple game (First Game), Documentation needs to be continued
+My First Game, Documentation needs to be continued
 ![FlappyBird_Example](https://raw.githubusercontent.com/OrangoMango/FlappyBird/master/NO%20PYTHON%20EDITION/GameExample.png)
 
 LAST VERSION (3.0.2)
