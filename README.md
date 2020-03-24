@@ -1,4 +1,4 @@
-# FlappyBird [![Run on Repl.it](https://repl.it/badge/github/OrangoMango/FlappyBird)](https://repl.it/github/OrangoMango/FlappyBird)
+# FlappyBird [![Run on Repl.it](https://repl.it/badge/github/OrangoMango/FlappyBird-3)](https://repl.it/github/OrangoMango/FlappyBird-3)
 My First Game, Documentation needs to be continued
 ![FlappyBird_Example](https://raw.githubusercontent.com/OrangoMango/FlappyBird/master/NO%20PYTHON%20EDITION/GameExample.png)
 
