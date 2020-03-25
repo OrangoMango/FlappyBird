@@ -4,7 +4,7 @@ LAST VERSION (3.0.2)
 
 Program ©2019-2020 By OrangoMangoGames (Paul Kocian)
 ----------------------------------------------------
-Program: 529 lines. Start: 1/09/2019 End: 12/02/2020 [Only weekend working]
+Program: 548 lines.
 
 ==========#Program for python3.5 with modules:==========
 <ul>
@@ -34,7 +34,7 @@ Program: 529 lines. Start: 1/09/2019 End: 12/02/2020 [Only weekend working]
 
 # Reset Game
 
-To reset game you need to delete the directory C:/Users/Your User/.FlappyBird in Windows or /home/user/.FlappyBird in Linux
+To reset game you need to open game and click the menu button ```Change settings``` and then the button ```Reset Game``` in Linux. In windows you have to delete the folder C:\Users\You_User\.FlappyBird
 
 # No-python-edition
 
