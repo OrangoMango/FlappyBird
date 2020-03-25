@@ -1,4 +1,4 @@
-# FlappyBird
+# FlappyBird ![GameExample](https://user-images.githubusercontent.com/61402409/77571610-f4a49800-6ecd-11ea-9b30-28ac729148d9.png)
 
 LAST VERSION (3.0.2)
 
