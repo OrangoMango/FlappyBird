@@ -26,7 +26,6 @@ Program: 548 lines.
 </ul>
   
 # Keys to use
-<b>You can change them in Linux Version or in the EXE version</b>
 <ul>
 <li>'p' for pause and resume game
 <li>'F3' for development mode (You can't die and there are borders)
