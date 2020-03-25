@@ -162,7 +162,7 @@ class Game():
 		prefmenu.add_command(label="Reset game", command=reset)
 		imgicon = PhotoImage(file=os.path.join(self.dir,self.dir+'FlappyBird_Game/icon.gif'), master=self.tk) #Set icon of game
 		self.tk.tk.call('wm', 'iconphoto', self.tk._w, imgicon)
-		self.tk.title("Flappy Bird (OMGames) V2.9.3") #Game title
+		self.tk.title("Flappy Bird (OMGames) V3.0.5") #Game title
 		self.canvas = Canvas(self.tk, width=600, height=500)
 		self.canvas.pack()
 		self.score = 0              #Default game values (score, highscore, attemps and if the game is Running)
