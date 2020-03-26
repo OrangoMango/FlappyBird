@@ -129,6 +129,13 @@ class Game():
 			#print("\nQUIIIIIIIIIII\n")
 			self.load_data_pref()
 			p.mainloop()
+		def reset():
+			for file in os.listdir(home+".FlappyBird"):
+				os.remove(home+".FlappyBird/"+file)
+			os.rmdir(home+".FlappyBird")
+			messagebox.showinfo("Info", "Game has been reset")
+			self.tk.destroy()
+			sys.exit()
 		#pref()
 		filemenu = Menu(menu, tearoff=0)
 		feedmenu = Menu(menu, tearoff=0)
@@ -142,6 +149,7 @@ class Game():
 		filemenu.add_separator()
 		filemenu.add_command(label="Quit", command = callback)
 		prefmenu.add_command(label="Change Settings", command=pref)
+		prefmenu.add_command(label="Reset game", command=reset)
 		imgicon = PhotoImage(file=os.path.join(self.dir,self.dir+'FlappyBird_Game/icon.gif'), master=self.tk) #Set icon of game
 		self.tk.tk.call('wm', 'iconphoto', self.tk._w, imgicon)
 		self.tk.title("Flappy Bird (OMGames) V3.0.1") #Game title
