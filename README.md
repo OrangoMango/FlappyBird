@@ -34,7 +34,7 @@ Program: 548 lines.
 
 # Reset Game
 
-To reset game you need to open game and click the menu button ```Preferences``` and then the button ```Reset Game``` or you have to delete the folder C:\Users\You_User\.FlappyBird
+To reset game you need to open game and click the menu button ```Preferences``` and then the button ```Reset Game``` or you have to delete the folder .FlappyBird in your home directory
 
 # No-python-edition
 
