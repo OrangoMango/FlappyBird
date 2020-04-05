@@ -1,9 +1,10 @@
 # FlappyBird 
-![GameExample](https://user-images.githubusercontent.com/61402409/77571610-f4a49800-6ecd-11ea-9b30-28ac729148d9.png)
 
-See the video on:
+See the video on: https://youtu.be/yKmR2_rxGtg
 
 Subscribe on my channel: https://www.youtube.com/channel/UCrx20bdxcCQhcmL3x0Rqrmw
+
+![GameExample](https://user-images.githubusercontent.com/61402409/77571610-f4a49800-6ecd-11ea-9b30-28ac729148d9.png)
 
 LAST VERSION (3.0.2)
 
