@@ -1,6 +1,6 @@
 # FlappyBird 
 
-Watch and like the video: https://youtu.be/yKmR2_rxGtg
+Watch and put like to the video: https://youtu.be/yKmR2_rxGtg
 
 Subscribe on my channel: https://www.youtube.com/channel/UCrx20bdxcCQhcmL3x0Rqrmw
 
