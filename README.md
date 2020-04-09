@@ -14,28 +14,28 @@ Program: 548 lines.
 
 ==========#Program for python3.5 with modules:==========
 <ul>
-<li> ```tkinter``` </li>
-<li> ```sqlite3``` </li>
-<li> ```sys``` </li>
-<li> ```os``` </li>
-<li> ```GamingIntro``` </li>
-<li> ```time``` </li>
-<li> ```playsound``` </li>
-<li> ```random``` </li>
-<li> ```threading``` </li>
-<li> ```HighscoreManager``` </li>
-<li> ```FeedbackInterface``` </li>
-<li> ```Preferences``` </li>
-<li> ```ErrorCase``` </li>
-<li> ```webbrowser``` </li>
+<li> tkinter </li>
+<li> sqlite3 </li>
+<li> sys </li>
+<li> os </li>
+<li> GamingIntro </li>
+<li> time </li>
+<li> playsound </li>
+<li> random </li>
+<li> threading </li>
+<li> HighscoreManager </li>
+<li> FeedbackInterface </li>
+<li> Preferences </li>
+<li> ErrorCase </li>
+<li> webbrowser </li>
 </ul>
   
 # Keys to use
 ### You can change them
 <ul>
-<li> ```p``` for pause and resume game
-<li> ```F3``` for development mode (You can't die and there are borders)
-<li> ```spacebar``` to kick the bird
+<li> 'p' for pause and resume game
+<li> 'F3' for development mode (You can't die and there are borders)
+<li> 'spacebar' to kick the bird
 </ul>
 
 # Reset Game
