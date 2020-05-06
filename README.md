@@ -1,5 +1,10 @@
 # FlappyBird 
 
+### Help: [Here](https://github.com/OrangoMango/FlappyBird/wiki/Run-exe-file-on-windows)  
+47
+  
+48
+
 Watch and put like to the video on: https://youtu.be/yKmR2_rxGtg
 
 Subscribe on my channel: https://www.youtube.com/channel/UCrx20bdxcCQhcmL3x0Rqrmw
@@ -43,7 +48,6 @@ Program: 548 lines.
 To reset game you need to open game and click the menu button ```Preferences``` and then the button ```Reset Game``` or you have to delete the folder .FlappyBird in your home directory
 
 # No-python-edition v3.0.1
-### Help: [Here](https://github.com/OrangoMango/FlappyBird/wiki/Run-exe-file-on-windows)
 
 For a edition without python you have to download the .exe file for windows, for linux there is no such version at the moment
 
