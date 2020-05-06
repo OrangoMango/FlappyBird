@@ -1,9 +1,9 @@
 # FlappyBird 
 
-### Help: [Here](https://github.com/OrangoMango/FlappyBird/wiki/Run-exe-file-on-windows)  
-47
-  
-48
+## Help: [Here](https://github.com/OrangoMango/FlappyBird/wiki/Run-exe-file-on-windows)  
+
+
+
 
 Watch and put like to the video on: https://youtu.be/yKmR2_rxGtg
 
