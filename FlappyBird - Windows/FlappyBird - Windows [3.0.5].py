@@ -1,8 +1,8 @@
 '''
-FlappyBird Version 2.9.3 on Ubuntu Linux
+FlappyBird Version 2.9.3 on Windows
 
-Game for python3.5 [Linux Version]
-A similar game to FlappyBird on Android
+Game for python3.5 [Windows]
+A similar game to FlappyBird on Windows
 For kick the bird you can use 'spacebar' or 'left mouse button'
 By using 'p' you pause and resume the game and by using
 'F3' you activate and deactivate development mode (you can not
