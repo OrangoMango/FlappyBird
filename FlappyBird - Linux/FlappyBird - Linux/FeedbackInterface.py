@@ -1,7 +1,6 @@
 from tkinter import *
 import os, time, sqlite3, webbrowser, smtplib
 from tkinter import scrolledtext, messagebox
-from email.message import EmailMessage
 
 class Feedback:
 	def __init__(self, interface="Linux", pathinit="", users=[None], initialfeedback="feedback;stars"):
@@ -79,18 +78,6 @@ class Feedback:
 		messagebox.showinfo("ClientInfo", "Feedback from {user} in {date} [{feedback}] {stars}:".format(user=data[-1][0], \
 																													date=data[-1][1], feedback=data[-1][2], stars=data[-1][3]))
 		self.tk.destroy()
-		msg = EmailMessage()
-		
-		c = "%s\n Stars number: %s" % (data[-1][2], data[-1][3])
-		
-		msg.set_content(c)
-		msg['Subject'] = 'FlappyBird Comment - %s' % data[-1][1]
-		msg['From'] = "%s@gmail.com" % data[-1][0]
-		msg['To'] = "orapama06@gmail.com"
-
-		s = smtplib.SMTP('localhost')
-		s.send_message(msg)
-		s.quit()
 
 	def see_feedbacks(self):
 		messagebox.showinfo("AdminInfo", "Feedbacks Access Is only for admin")
