@@ -2,9 +2,6 @@
 
 ## Help: [Here](https://github.com/OrangoMango/FlappyBird/wiki/Run-exe-file-on-windows)  
 
-
-
-
 Watch and put like to the video on: https://youtu.be/yKmR2_rxGtg
 
 Subscribe on my channel: https://www.youtube.com/channel/UCrx20bdxcCQhcmL3x0Rqrmw
@@ -49,6 +46,6 @@ To reset game you need to open game and click the menu button ```Preferences``` 
 
 # No-python-edition v3.0.1
 
-For a edition without python you have to download the .exe file for windows, for linux there is no such version at the moment
+For an edition without python you have to download the .exe file for windows.
 
 ©2019-2020
