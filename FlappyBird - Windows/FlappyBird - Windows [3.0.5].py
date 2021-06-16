@@ -1,16 +1,5 @@
 '''
 FlappyBird Version 2.9.3 on Windows
-
-Game for python3.5 [Windows]
-A similar game to FlappyBird on Windows
-For kick the bird you can use 'spacebar' or 'left mouse button'
-By using 'p' you pause and resume the game and by using
-'F3' you activate and deactivate development mode (you can not
-die and there are rectangulars arround the sprites, so you can
-see when the bird touches the sticks)
-
-For feedback please write in the comments! or from menu
-\BY PAUL KOCIAN OrangoMango (C)2019-2020
 '''
 
 #Program for python 3.5
